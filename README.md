@@ -1,4 +1,4 @@
-# Course git most used commamds:
+# Course git most used commands:
 - git init
 - git config user.name"NAME"
 - git status
