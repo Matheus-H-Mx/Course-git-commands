@@ -1,5 +1,5 @@
 # Course git most used commands:
-|| - git init                     ||  
+| git init                     |  
 - git config user.name"NAME"      
 - git status
 - git add .
