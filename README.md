@@ -5,9 +5,9 @@
 | git init                      |            
 |Inicia o sistema de controle de versão de arquivos |            
 | git config user.name"NAME" / .email   |             
-|Defina um nome de usuário do Git|            
+|Defina um nome de usuário do Git ou email|            
 | git status                    |            
-|-------------------------------|            
+|Moatra a arvore do trabalho selecionado|            
 | git add .                     |            
 |-------------------------------|            
 | git commit -m "text commit"   |            
