@@ -1,7 +1,7 @@
 # Course git most used commands:
 
-  Commands                        
-|-------------------------------|
+| Commands                      | Função |
+|-------------------------------| 
 | git init                      |  
 |-------------------------------|
 | git config user.name"NAME"    |
