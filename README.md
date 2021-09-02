@@ -8,8 +8,8 @@
 |Defina um nome de usuário do Git ou endereço de email|            
 | git status                    |            
 |Mostra a arvore do trabalho selecionado|            
-| git add .                     |            
-|-------------------------------|            
+| git add .   /add <ABC>        |            
+|Adiciona todos arquivos ou partes selecionada |            
 | git commit -m "text commit"   |            
 |-------------------------------|             
 | git log / -- one              |             
