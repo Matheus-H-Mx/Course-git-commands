@@ -7,7 +7,7 @@
 | git config user.name"NAME" / .email   |             
 |Defina um nome de usuário do Git ou endereço de email|            
 | git status                    |            
-|Moatra a arvore do trabalho selecionado|            
+|Mostra a arvore do trabalho selecionado|            
 | git add .                     |            
 |-------------------------------|            
 | git commit -m "text commit"   |            
