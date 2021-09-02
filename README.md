@@ -19,7 +19,7 @@
 | git rm ABC                    |
 |remove o arquivo selecionado |
 | git diff --staged             |
-|-------------------------------|
+|comparação nas fontes de dados Git|
 | git commit --amend -m "ABC"   |
 |-------------------------------|
 | git reset head --hard         |
