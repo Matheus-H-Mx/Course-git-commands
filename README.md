@@ -3,7 +3,7 @@
 | Commands                      |
 |-------------------------------|            
 | git init                      |            
-|-------------------------------|            
+|Inicia o sistema de controle de versão de arquivos |            
 | git config user.name"NAME"    |             
 |-------------------------------|            
 | git status                    |            
