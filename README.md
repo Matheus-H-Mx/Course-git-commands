@@ -11,13 +11,13 @@
 | git add .   /add <ABC>        |            
 |Adiciona todos arquivos ou partes selecionada |            
 | git commit -m "text commit"   |            
-|-------------------------------|             
-| git log / -- one              |             
-|-------------------------------|             
+|adiciona arquivo para time line do projeto|             
+| git log / -- oneline              |             
+|permite visualizar todos os commits             
 | git checkout master / 81b13abc| 
-|-------------------------------|
+|navega por ramificaçoes da bramch|
 | git rm ABC                    |
-|-------------------------------|
+|remove o arquivo selecionado |
 | git diff --staged             |
 |-------------------------------|
 | git commit --amend -m "ABC"   |
