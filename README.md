@@ -21,10 +21,10 @@
 | git diff --staged             |
 |comparação nas fontes de dados Git|
 | git commit --amend -m "ABC"   |
-|-------------------------------|
+|altera a mensagem q deseja corrigir dos commits|
 | git reset head --hard         |
-|-------------------------------|
+|volta o projeto atual para branchs passados|
 | git branch / ABC / -d         |
-|-------------------------------|
+|ramificação do projeto com objetivos de aperfeçoar o projeto|
 | git merge ABC                 |
-|-------------------------------|
+|pega a rota criada pela branch e unifica a rota unica |
